@@ -1,0 +1,4 @@
+scenario,average_precision
+Baseline test data,0.9884935460456611
+Shifted data before retraining,0.6841472855562345
+Shifted data after retraining,0.6911499843685724
